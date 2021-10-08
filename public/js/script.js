@@ -1,0 +1,1 @@
+alert("All I Wanna Do, Wanna One!");
